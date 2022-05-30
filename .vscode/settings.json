@@ -1,0 +1,13 @@
+{
+	"editor.wordWrap": "on",
+	"editor.comments.ignoreEmptyLines": true,
+	"editor.unusualLineTerminators": "prompt",
+	"files.trimFinalNewlines": false,
+	"debug.console.collapseIdenticalLines": false,
+	"files.eol": "auto",
+	"workbench.statusBar.visible": false,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.folding": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true
+}
